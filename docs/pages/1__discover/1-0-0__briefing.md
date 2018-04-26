@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - «Julie» «Mattelaer»
+ - «Julie» «Van de Weerd»
 
-Gekozen Museum
---------------
+Musée Magritte Museum
+---------------------

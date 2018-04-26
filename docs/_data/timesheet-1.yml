@@ -1,25 +1,25 @@
-# ╔═══════════╗
-# ║ Student 1 ║
-# ╚═══════════╝
+# ╔═════════════════╗
+# ║ Julie Mattelaer ║
+# ╚═════════════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Persona opstellen.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 3.5
+  task: Museumbezoek.
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Journey Maps opbouwen.
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 5
+  task: Style-tiles.
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 5
+  task: Visual Design - Paper prototype.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Visual Design (digitaal).
 -
   time: 1.75
   task: Lorem ipsum sit dolor amet.
