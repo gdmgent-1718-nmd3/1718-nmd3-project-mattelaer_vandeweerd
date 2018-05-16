@@ -10,5 +10,11 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+
+![foto van julie Mattelaer]({{ 'assets/img/julie-m.png' | relative_url }}){:.home-img} 
+
+Julie Mattelaer, 2CMO-GD
+
+![foto van julie Van de Weerd]({{ 'assets/img/julie-v.png' | relative_url }}){:.home-img}
+
+Julie Van de Weerd, 2CMO-GD

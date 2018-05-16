@@ -109,10 +109,10 @@
       # permalink: deliver/timesheets/
       children:
         -
-          title: Student 1
+          title: Julie Mattelaer
           permalink: deliver/timesheets/student-1/
         -
-          title: Student 2
+          title: Julie Van de Weerd
           permalink: deliver/timesheets/student-2/
 # -
 #   title: Deploy

@@ -7,10 +7,15 @@ published: true
 title: Concept
 ---
 
+>>> **(Het gaat hier over de smartphone app? Misschien duidelijk onderscheid maken?)**
+
+>>> **(Feedback van Bart Missant: Meer functies in smartwatch steken.)**
+
 ### Musée Magritte App
-- Met onze app willen wij de museumervaring van bezoekers verbeteren. De app is met zijn eenvoudig design bedoeld en ontworpen voor iedereen die het museum wil bezoeken.
-- Op basis van de locatievoorziening biedt de app een routebeschrijving aan. Deze optie blijft ten allen tijde beschikbaar, of je nu in het museum bent of niet.
-- De app biedt:
+Met onze app willen wij de museumervaring van bezoekers verbeteren. De app is met zijn eenvoudig design bedoeld en ontworpen voor iedereen die het museum wil bezoeken.
+
+Op basis van de locatievoorziening biedt de app een routebeschrijving aan. Deze optie blijft ten allen tijde beschikbaar, of je nu in het museum bent of niet.
+De app biedt:
   - Uitleg
   - Een overzicht van de collectie per zaal, dit wordt ook ondersteund aan de hand van beacons. Zo kan een bepaald schilderij ook snel teruggevonden worden.
   - Signalisatie
