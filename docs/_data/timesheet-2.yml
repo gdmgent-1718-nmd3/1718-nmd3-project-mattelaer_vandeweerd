@@ -10,16 +10,22 @@
   task: Museumbezoek.
 -
   time: 3
+  task: analyse, technische analyse.
+-
+  time: 3
   task: Journey Maps.
 -
   time: 5
   task: Style-tiles.
 -
+  time: 1
+  task: plaatsen van journey maps, concept uitschrijven, Style-tiles plaatsen.
+-
   time: 5
   task: Visual Design - Paper prototype.
 -
   time: 2
-  task: Visual Design (digitaal).
+  task: Visual Design (Adobe XD).
 -
   time: 1.75
   task: Lorem ipsum sit dolor amet.

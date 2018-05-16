@@ -4,22 +4,28 @@
 # Tijd in kwartieren (0.25 uur)
 -
   time: 2
-  task: Persona opstellen.
+  task: Persona.
 -
   time: 3.5
   task: Museumbezoek.
 -
   time: 3
-  task: Journey Maps opbouwen.
+  task: analyse, technische analyse.
+-
+  time: 3
+  task: Journey Maps.
 -
   time: 5
   task: Style-tiles.
+-
+  time: 1
+  task: plaatsen van journey maps, concept uitschrijven, Style-tiles plaatsen.
 -
   time: 5
   task: Visual Design - Paper prototype.
 -
   time: 2
-  task: Visual Design (digitaal).
+  task: Visual Design (Adobe XD).
 -
   time: 1.75
   task: Lorem ipsum sit dolor amet.

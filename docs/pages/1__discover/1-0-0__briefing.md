@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «Julie» «Mattelaer»
- - «Julie» «Van de Weerd»
+ - Student 1: Julie Mattelaer
+ - Student 2: Julie Van de Weerd
 
 Musée Magritte Museum
 ---------------------

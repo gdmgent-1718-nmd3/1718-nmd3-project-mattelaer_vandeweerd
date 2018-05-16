@@ -7,12 +7,18 @@ published: true
 title: Style Tiles
 ---
 
-Gekozen
+**Gekozen**
 -------
+![Alternatief 1]({{ 'assets/img/style-tilegekozen.png' | relative_url }}){:.alternatief-img}
 
-Alternatief 1
--------------
-<img src="1718-nmd3-project-mattelaer_vandeweerd/files/style-tilealternatief-1.png" alt="Alternatief 1"/>
+___
 
-Alternatief 2
+**Alternatief 1**
 -------------
+![Alternatief 1]({{ 'assets/img/style-tilealternatief-1.png' | relative_url }}){:.alternatief-img}
+
+___
+
+**Alternatief 2**
+-------------
+![Alternatief 1]({{ 'assets/img/style-tilealternatief-2.png' | relative_url }}){:.alternatief-img}
