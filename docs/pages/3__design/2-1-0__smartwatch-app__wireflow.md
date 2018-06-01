@@ -8,4 +8,4 @@ title: Wireflow
 ---
 
 
-![wireflow]({{ 'assets/img/wireflow.png' | relative_url }}){:.ideaboard-img}
+![wireflow]({{ 'assets/img/wireflow-watch.png' | relative_url }}){:.ideaboard-img}

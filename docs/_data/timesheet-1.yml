@@ -3,32 +3,50 @@
 # ╚═════════════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 2
-  task: Persona.
+  time: 6
+  task: Analyse > Museum uitkiezen, Persona maken, scenario
 -
-  time: 3.5
+  time: 8
   task: Museumbezoek.
 -
   time: 3
-  task: analyse, technische analyse.
+  task: Analyse > interviews uitschrijven + technische analyse.
 -
   time: 3
-  task: Journey Maps.
+  task: analyse > Journey Maps.
+-
+  time: 2
+  task: ideaboard
 -
   time: 5
   task: Style-tiles.
 -
-  time: 1
-  task: plaatsen van journey maps, concept uitschrijven, Style-tiles plaatsen.
+  time: 4
+  task: Productiedossier > Plaatsen van journey maps, concept uitschrijven, Style-tiles plaatsen.
 -
-  time: 5
-  task: Visual Design - Paper prototype.
+  time: 4
+  task: productiedossier > Ideaboard, styletiles plaatsen
+-
+  time: 8
+  task: Smartwatch > technische analyse + Paper prototype.
+-
+  time: 8
+  task: Smartwatch en smartphone > paper prototype + gebruikerstests
+-
+  time: 7
+  task: Smartwatch > screen design
+-
+  time: 7
+  task: Smartphone > screen design
 -
   time: 2
-  task: Visual Design (Adobe XD).
+  task: Bijwerken
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 10
+  task: Website > sitemap + wireframes + visual design
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 6
+  task: Website > visual design
+-
+  time: 7
+  task: Website afwerken + feedback + aanpassingen naar feedback

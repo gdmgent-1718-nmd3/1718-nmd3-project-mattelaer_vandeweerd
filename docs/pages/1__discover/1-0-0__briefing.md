@@ -7,7 +7,6 @@ published: true
 title: Briefing
 ---
 
->>> **(Tekst zelf schrijven in eigen woorden)**
 
 Opdracht
 --------

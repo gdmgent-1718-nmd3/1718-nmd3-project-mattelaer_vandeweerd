@@ -1,0 +1,169 @@
+body {
+    font-family: IBM Plex Sans, sans serif;
+    color: #a4d2ee;
+}
+
+/* Typografie */
+.IBM {
+    font-family: IBM Plex Sans;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.IBM-bold {
+    font-family: IBM Plex Sans;
+    font-weight: bold;
+}
+
+.IBM-regular {
+    font-family: IBM Plex Sans;
+}
+.IBM-light {
+    font-family: IBM Plex Sans;
+    font-weight: lighter;
+}
+/* tekst kleur */
+.t-blauw {
+    color: #a4d2ee;
+}
+.t-wit {
+    color: white;
+}
+
+/* gekleurde div */
+.blauw {
+    background-color: #a4d2ee;
+    padding: 20px;
+    width: 25%;
+    box-shadow: 5px 5px 20px 0px grey;
+    float: left;
+}
+
+.grijs {
+    background-color: #f6f6f6;
+    padding: 20px;
+    width: 25%;
+    box-shadow: 5px 5px 20px 0px grey;
+    float: left;
+    margin-right: 20px;
+}
+/* kleuren cirkels */
+.c-blauw {
+    height: 200px;
+    width: 200px;
+    background-color: #a4d2ee;
+    border-radius: 100%;
+    box-shadow: 5px 5px 20px 0px grey;
+    float: left;
+    margin-right: 20px;
+}
+
+.c-grijs {
+    height: 200px;
+    width: 200px;
+    background-color: #f6f6f6;
+    border-radius: 100%;
+    box-shadow: 5px 5px 20px 0px grey;
+    float: left;
+    margin-right: 20px;
+}
+
+.c-roze {
+    height: 200px;
+    width: 200px;
+    background-color: #f3dde9;
+    border-radius: 100%;
+    box-shadow: 5px 5px 20px 0px grey;
+    float: left;
+    margin-right: 20px;
+}
+
+.c-wit {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 100%;
+    box-shadow: 5px 5px 20px 0px grey;
+    float: left;
+    margin-right: 20px;
+}
+
+.c-zwart {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 100%;
+    box-shadow: 5px 5px 20px 0px grey;
+    float: left;
+    margin-right: 20px;
+}
+
+/* Marges */
+.ml {
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+/* Knoppen */
+.button {
+    width: 80px;
+    height: 80px;
+    margin: none;
+}
+
+.button-2 {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
+
+/* Formulieren */
+.form {
+    width: 500px;
+    margin-left: 50px;
+}
+input {
+    font-family: IBM Plex Sans, sans serif;
+    font-size: 20px;
+    width: 500px;
+    height: 50px;
+    padding: 0px 15px 0px 15px; 
+    background: white;
+    outline: none;
+    color: #a4d2ee;
+    border: solid 3px #a4d2ee;
+    margin-top: 10px;
+}
+input:hover {
+    background: #a4d2ee;
+    color: white;
+}
+textarea {
+    font-size: 20px;
+    width: 500px;
+    max-width: 500px;
+    height: 110px;
+    max-height: 600px;
+    padding: 15px;
+    background: transparent;
+    color: #a4d2ee;
+    margin-top: 10px;
+    border: solid 3px #a4d2ee;
+}
+textarea:hover {
+    background: #a4d2ee;
+    color: white;
+}
+.submit {
+    font-family: IBM Plex Sans, sans serif;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    margin: 0px 0px 0px 0px;
+    background-color: #a4d2ee;
+    color: white;
+}
+.submit:hover {
+    color: white;
+}
