@@ -9,13 +9,13 @@ title: knoppen
 
 
 ![info]({{ 'assets/img/icon-info.png' | relative_url }}){:.button .ml}
-![info-2]({{ 'assets/img/icon-info-2.png/' | relative_url }}){:.button-2}
+![info-2]({{ 'assets/img/icon-info-lijn.png/' | relative_url }}){:.button-2}
 ![sound]({{ 'assets/img/icon-sound.png' | relative_url }}){:.button}
-![sound-2]({{ 'assets/img/icon-sound-2.png/' | relative_url }}){:.button-2}
+![sound-2]({{ 'assets/img/icon-sound-lijn.png/' | relative_url }}){:.button-2}
 ![hat]({{ 'assets/img/icon-hat.png' | relative_url }}){:.button}
-![hat-2]({{ 'assets/img/icon-hat-2.png/' | relative_url }}){:.button-2}
+![hat-2]({{ 'assets/img/icon-hat-lijn.png/' | relative_url }}){:.button-2}
 ![location]({{ 'assets/img/icon-loc.png' | relative_url }}){:.button}
-![location-2]({{ 'assets/img/icon-loc-2.png/' | relative_url }}){:.button-2}
+![location-2]({{ 'assets/img/icon-loc-lijn.png/' | relative_url }}){:.button-2}
 
 ![toilet]({{ 'assets/img/icon-toilet.png' | relative_url }}){:.button .ml}
 ![lock]({{ 'assets/img/icon-lock.png' | relative_url }}){:.button}
