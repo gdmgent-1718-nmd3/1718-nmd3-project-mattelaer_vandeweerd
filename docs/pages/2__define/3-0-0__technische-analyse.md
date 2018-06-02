@@ -17,8 +17,6 @@ title: Technische Analyse
   - Belangrijke informatie komt binnen op je pols en je kan er meteen wat mee doen. 
 + Muziekbediening.
 + Bellen en berichten verzenden (enkel mogelijk in combinatie met een iPhone).
-+ Goede kwaliteit.
-+ Duurzaam.
 + Dock: Je favoriete apps: Altijd paraat.
  - Druk op de knop aan de zijkant voor het dock. Vervolgens kun je snel bladeren door de apps die je het meest gebruikt. Apps worden razendsnel geopend en zijn altijd up-to-date. Dus je ziet altijd het laatste nieuws, het weerbericht en de actuele aandelenkoersen.
 + Bluetooth (om te verbinden met je smartphone)
